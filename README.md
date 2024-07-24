@@ -3,6 +3,8 @@
 This example is purely practical and a contribution to the community.
 
 Several aspects must be taken into account before starting, SQLClient nuggets are installed for the DB connection.
+The Database Script, located in the repository, must be executed.
+
 The database to be used is SQL Server, however the logic is similar in other databases.
 
 It has an MVC structure, along with library projects to facilitate reading and interaction between projects.
