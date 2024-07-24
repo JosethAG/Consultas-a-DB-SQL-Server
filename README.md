@@ -14,6 +14,8 @@ The main objective is to show how to establish a connection to a DB and consume 
 Este ejemplo es meramente práctico y de aporte a la comunidad
 
 Se deben tomar en cuenta varios aspectos antes de iniciar, se instalan nuggets de SQLClient para la conexión a DB.
+Se debe de ejecturar el Script de Bases de Datos, que se encuentra en el repositorio.
+
 La Base de datos a utilizar es SQL Server, sin embargo la lógica es similar en otras bases de datos.
 
 Cuenta con una estructura de MVC, junto a proyectos de librerías para facilitar la lectura y la interacción entre proyectos.
